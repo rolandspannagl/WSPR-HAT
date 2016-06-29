@@ -126,35 +126,27 @@ DocumentPath=Project Outputs for WSPRShield\WSPRShield.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for WSPRShield\WSPRShield.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument11]
 DocumentPath=Project Outputs for WSPRShield\WSPRShield.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for WSPRShield\WSPRShield.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for WSPRShield\WSPRShield.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for WSPRShield\WSPRShield.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for WSPRShield\WSPRShield.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for WSPRShield\WSPRShield.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for WSPRShield\WSPRShield.TXT
 DItemRevisionGUID=
 
 [Configuration1]
