@@ -1,0 +1,13 @@
+[Unit]
+Description=Wsprrypi
+After=multi-user.target
+
+[Service]
+Type=forking
+User=root
+ExecStart=/usr/bin/screen -d -m -S wspr wspr -r YOURCALL YOURLOCATOR 10 20m
+ExecStop=/usr/bin/killall -w -s 2 wspr
+WorkingDirectory=/root
+
+[Install]
+WantedBy=multi-user.target
